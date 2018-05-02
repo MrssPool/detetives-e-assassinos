@@ -1,4 +1,4 @@
-# detetives-e-assassinos
+# Detetives e Assassinos
 Exercício da matéria MC102 - Algoritmos e Programação de Computadores na Unicamp.
 
 Links do enunciado:
